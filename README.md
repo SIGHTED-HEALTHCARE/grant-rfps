@@ -1,3 +1,9 @@
+
+# SIGHTED: Request for Proposal (RFP)
+
+
+======================================================================================================================================================================================
+
 # Grant RFPs and Bounties
 
 Grant RFPs and bounties are listed as [Issues](https://github.com/dfinity/grant-rfps/issues).
